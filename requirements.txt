@@ -1,0 +1,8 @@
+chainlit
+python-dotenv
+ruff
+langchain-community
+langchain
+langchain-groq
+boto3
+azure-storage-file-datalake
